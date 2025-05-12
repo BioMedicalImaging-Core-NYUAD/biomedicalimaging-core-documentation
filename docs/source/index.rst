@@ -27,6 +27,22 @@ https://nyuad.nyu.edu/en/research/facilities-and-support/core-technology-platfor
 *NYUAD Core Technology Platforms*
 
 
+Brain Imaging Lab
+-----------------
+
+- `Brain Imaging Lab Documentation <https://brainimaging-lab-documentation.readthedocs.io/>`_
+
+Neurowaves Lab
+--------------
+
+- `Neurowaves Lab Documentation <https://neurowaves.readthedocs.io/>`_
+
+Small Imaging Lab
+-----------------
+
+- `Small Animal Imaging Lab Documentation <https://smallanimalimaging.readthedocs.io/>`_
+
+
 .. toctree::
    :maxdepth: 2
    :caption: BioMedical Imaging Core
