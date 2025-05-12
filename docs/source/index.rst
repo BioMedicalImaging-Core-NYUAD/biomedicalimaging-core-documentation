@@ -11,7 +11,6 @@ is one of twelve specialized cores within the **Core Technology Platforms** (CTP
 
 *Biomedical Imaging Core*
 
-.. raw:: html
 
 CTP encompasses a **wide range of advanced instrumentation**, supported by a team of **dedicated scientists** and **technical**
 **experts** who manage equipment maintenance, provide comprehensive user training, and facilitate research operations across
