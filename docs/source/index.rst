@@ -30,7 +30,7 @@ Core team
 
 Haidee Paterson
 ===============
-.. image:: graphic/team/haidee.jpg
+.. image:: _static/haidee.jpg
    :width: 250px
    :align: left
    :alt: Haidee Paterson
@@ -51,7 +51,7 @@ MRI data acquisition, MRI integrated with EEG, and MEG data acquisition.
 
 Hadi Zaatiti
 ============
-.. image:: graphic/team/hadi.jpg
+.. image:: _static/hadi.jpg
    :width: 250px
    :align: left
    :alt: Hadi Zaatiti
@@ -70,7 +70,7 @@ His main role is to support MEG-EEG projects by ensuring correct operation of th
 
 Osama Abdullah
 ==============
-.. image:: graphic/team/osama.jpg
+.. image:: _static/osama.jpg
    :width: 250px
    :align: left
    :alt: Osama Abdullah
@@ -93,8 +93,8 @@ Maylis Boitet
 =============
 .. image:: _static/Maylis.jpg
    :alt: *Maylis Boitet, DVM, PhD*
-   :width: 1000px
-   :align: center
+   :width: 250px
+   :align: left
 
 **Small Animal Imaging Research Scientist I**
 
