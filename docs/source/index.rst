@@ -106,7 +106,6 @@ a reporter mouse model for neuroinflammation using in vivo optical imaging. Her 
 imaging, with particular emphasis on the application of **advanced imaging modalities** to study brain function in preclinical
 models. Dr. Boitet also holds a **Doctor of Veterinary Medicine** (DVM) degree from VetAgro Sup in Lyon. At NYUAD, she actively
 collaborates with researchers to integrate **non-invasive imaging strategies** into preclinical research studies.
-For any inquiries regarding the Small Animal Imaging Lab, please contact her at maylis.boitet@nyu.edu.
 
 `maylis.boitet@nyu.edu <mailto:maylis.boitet@nyu.edu>`_
 
