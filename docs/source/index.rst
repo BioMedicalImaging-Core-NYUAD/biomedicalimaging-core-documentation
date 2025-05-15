@@ -98,7 +98,6 @@ Maylis Boitet
 
 **Small Animal Imaging Research Scientist I**
 
-.. raw:: html
 
 Since August 2023, Dr. Boitet has served as the inaugural **Research Instrumentation Scientist** for the Small Animal Imaging
 Lab at New York University Abu Dhabi (NYUAD). She earned her Ph.D. from Institut Pasteur Korea, where she characterized
