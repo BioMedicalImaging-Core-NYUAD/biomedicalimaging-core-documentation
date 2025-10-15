@@ -1,4 +1,4 @@
 Neurowaves lab
 --------------
 
-NA
+- `Neurowaves Lab Documentation <https://neurowaves.readthedocs.io/>`_
