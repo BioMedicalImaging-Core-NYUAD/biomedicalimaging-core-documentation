@@ -1,6 +1,4 @@
 Small Animal Imaging
 --------------------
 
-
-
-NA
+- `Small Animal Imaging Lab Documentation <https://smallanimalimaging.readthedocs.io/>`_
